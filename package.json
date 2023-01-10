@@ -23,7 +23,7 @@
     "vue-router": "^4.0.16"
   },
   "devDependencies": {
-    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-licensing": "^1.3.0",
     "@progress/kendo-theme-default": "^5.5.0",
     "@progress/kendo-vue-animation": "^3.4.0",
     "@progress/kendo-vue-buttons": "^3.4.0",
